@@ -15,11 +15,16 @@
 - 정리한 개념을 바탕으로 추가 연습 문제를 풀이한다.
 <br><br><br>
 
-## ☑️ Commit Message 
-- 알고리즘 개념 : `<study> Section[Section_Num] [Title]`
+## ☑️ Convention
+### ✅ Commit Convention
+- 알고리즘 개념 : `<create> Section[Section_Num] [Title]`
 - 코딩 테스트 문제 풀이 : `<create> Q[Question_Num] [Title]`
 - 기존 코드 수정 시 : `<modify> Q[Question_Num] [Title]`
 - 기타 수정 시 : `<update> [Content]`
+
+### ✅ Branch Convention
+- 알고리즘 개념 : `lecture/#[Section_Num]-[Title]`
+- 코딩 테스트 문제 풀이 : `solve/#[Question_Num]-[Title]`
 <br><br><br>
 
 ## 📁 File Structure
