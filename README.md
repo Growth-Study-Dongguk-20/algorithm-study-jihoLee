@@ -1,4 +1,4 @@
-# algorithm-study-jiholee
+# Algorithm Study
 ## 📘 Study Rule
 1. 매주 월요일 오후 2시 비대면 회의 진행
 2. 개인 Repo 안에 `알고리즘 개념 정리 Dir` 와 `코딩 테스트 준비 Dir` 를 구분한다.
