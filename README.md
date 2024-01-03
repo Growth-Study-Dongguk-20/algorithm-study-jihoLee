@@ -1,8 +1,6 @@
 # Algorithm Study
 
 ## ✏️ Study Rule
-
----
 > **1. 매주 화, 목요일 마다 정해진 강의를 듣고, 강의 내용과 예제 문제 풀이를 기록한다.**
 >
 
@@ -14,8 +12,6 @@
 <br><br>
 
 ## 📌 Schedule
-
----
 ### 📅 2024.01.04 ~ 2024.02.27
 - [Do it! 알고리즘 코딩테스트 with JAVA](https://www.inflearn.com/course/%EB%91%90%EC%9E%87-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%B0%94/dashboard) 강의를 완강한다.
 
@@ -24,8 +20,6 @@
 <br><br><br>
 
 ## ☑️ Convention
-
----
 ### ✅ Commit Convention
 - 알고리즘 개념 : `<create> Section[Section_Num] [Title]`
 - 코딩 테스트 문제 풀이 : `<create> Q[Question_Num] [Title]`
@@ -38,8 +32,6 @@
 <br><br><br>
 
 ## 📁 File Structure
-
----
 📂algorithm_lecture_summary  
 ┣ 📂Section[Section_Num]  
  ┃ ┗ 📝[Title].md  
